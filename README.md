@@ -13,4 +13,4 @@ def test_my2():
     assert 1 + 1 == 2
 
 if __name__ == "__main__":
-    pytest.man()
+    pytest.main()
